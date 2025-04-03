@@ -6,7 +6,7 @@ datePublished: Thu Apr 03 2025 05:36:05 GMT+0000 (Coordinated Universal Time)
 cuid: cm90xag5000230ajugiqldyzf
 slug: say-goodbye-to-trial-limits-reset-your-cursor-ai-machine-id-with-this-python-script
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743654044491/24e1dc0e-608d-4112-84c9-c1e3c795388c.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743657529803/ccb30053-81e4-45e8-b29b-e287626b5cd5.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743660152083/1dc3d341-69cf-4ff1-a3c5-5933d50d2534.jpeg
 tags: linux, python, hack, cursor, vulnerability, bypass, python-script, appimage, cursor-ai, free-trial-bypass, trial-limit, bypass-trial, cursor-free-trial, reset-machine-id, machine-id
 
 ---
