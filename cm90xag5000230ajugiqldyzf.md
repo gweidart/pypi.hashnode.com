@@ -1,5 +1,5 @@
 ---
-title: "Say Goodbye to Trial Limits: Reset Your Cursor AI Machine ID with This Python Script"
+title: "Say Goodbye to Free Trial Limits: Reset Your Cursor AI Machine ID with This Python Script"
 seoTitle: "Bypass Cursor’s Free Trial Limit using Python"
 seoDescription: "Technical guide using a Python script to bypass Cursor’s free trial limits on Linux. Full code & steps included."
 datePublished: Thu Apr 03 2025 05:36:05 GMT+0000 (Coordinated Universal Time)
